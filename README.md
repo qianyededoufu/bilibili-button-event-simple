@@ -11,3 +11,8 @@ max7219驱动来自 JulienBacquart 仓库地址：https://github.com/JulienBacqu
 <br/>
 接线图为：<br/>
 <img src="https://github.com/qianyededoufu/imgPackage/blob/master/esp32%20bili%20event%20sim%2020190607212700.png"  alt="PIC" />
+<br/>
+只需更改下图中main文件的的15-25行的参数即可使用<br/>
+<img src="https://github.com/qianyededoufu/imgPackage/blob/master/20190607214024.png"  alt="PIC" />
+<br/>
+
