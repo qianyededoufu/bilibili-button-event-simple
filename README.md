@@ -3,7 +3,7 @@ bilibili-button-event-simple<br/>
 显示模块使用max7219驱动8位数码管 显示今日天气 今日最低气温和最高气温 其他功能将陆续更新<br/>
 我的渣英语<br/>
 The micropython is runing on Wifi&amp;Bluetooth ic ESP32 is used in this project <br/>
-Display module is eight-bit eight-segment digital tube power by Max7219 <br/>
+Display module is eight digits eight-segment digital tube power by Max7219 <br/>
 You can get your fans number on Bilibili and display today'weather and min temperature to max temperature <br/>
 max7219驱动来自 JulienBacquart 仓库地址：https://github.com/JulienBacquart/micropython-max7219 <br/>
 <br/>
